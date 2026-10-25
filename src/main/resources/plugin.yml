@@ -1,0 +1,8 @@
+name: ConfigurableCarts
+version: '${version}'
+
+main: lol.bkd.configurableCarts.ConfigurableCarts
+api-version: '1.20'
+
+authors: [ Lavender Persson ]
+website: https://bkd.lol

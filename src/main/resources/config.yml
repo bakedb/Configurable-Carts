@@ -1,0 +1,7 @@
+# Configurable Carts Configuration
+
+# Do not change this value unless you know what you are doing.
+config-version: 1
+
+# This value defines how big TNT Minecart explosions are. 0 will disable them, and the default Minecraft radius is 4.0.
+explosion-yield: 4.0
